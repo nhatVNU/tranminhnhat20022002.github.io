@@ -7,11 +7,10 @@ draft: false
 ## About Me...?
 
 There is no Vietnamese version of this page.
-Trang này sẽ không có phiên bản tiếng Việt.
 
 ---
 
-# Hi, I'm Wello!
+# Hi, I'm Dranix!
 
 A student, who is irresistible to find out how computer beep-booping.
 
