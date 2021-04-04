@@ -1,6 +1,6 @@
-baseURL = "https://wello6143.github.io"
+baseURL = "https://tranminhnhat20022002/nhatdranix.github.io"
 languageCode = "en-us"
-title = "Wello"
+title = "Dranix"
 theme = "customa"
 
 paginate = 10
@@ -48,9 +48,9 @@ paginate = 10
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Wello"
+    title = "Dranix"
     subtitle = ""
-    owner = "wello6143"
+    owner = "Dranix"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
